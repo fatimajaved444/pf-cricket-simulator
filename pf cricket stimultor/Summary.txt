@@ -1,0 +1,46 @@
+Team A's total is : 0
+Team B's total is: 0
+
+Match drawn: 
+
+
+Team A: 
+BATTTING	R 	B 	4s 	6s 	SR
+--------	--	--	--	--	--
+Babar   	0 	0 	0 	0 	0 	
+Rizwan   	0 	0 	0 	0 	0 	
+Fakhar   	0 	0 	0 	0 	0 	
+Shadab   	0 	0 	0 	0 	0 	
+Shaheen   	0 	0 	0 	0 	0 	
+Zaman   	0 	0 	0 	0 	0 	
+Haris   	0 	0 	0 	0 	0 	
+Did not bat: Babar Rizwan Fakhar Shadab Shaheen Zaman Haris 
+
+Team B: 
+BATTTING	R 	B 	4s 	6s 	SR
+--------	--	--	--	--	--
+Rahul   	0 	0 	0 	0 	0 	
+Rohit   	0 	0 	0 	0 	0 	
+Kohli   	0 	0 	0 	0 	0 	
+Hardik   	0 	0 	0 	0 	0 	
+Ashwin   	0 	0 	0 	0 	0 	
+Shami   	0 	0 	0 	0 	0 	
+chahal   	0 	0 	0 	0 	0 	
+Did not bat: Rahul Rohit Kohli Hardik Ashwin Shami chahal 
+
+Team A: 
+BOWLING  	O 	M 	R 	W 	ECON
+--------	--	--	--	--	--
+Haris   	0 	0 	0 	0 	0 	
+Zaman   	0 	0 	0 	0 	0 	
+Shaheen   	0 	0 	0 	0 	0 	
+Shadab   	0 	0 	0 	0 	0 	
+
+
+Team B: 
+BOWLING  	O 	M 	R 	W 	ECON
+--------	--	--	--	--	--
+chahal   	0 	0 	0 	0 	0 	
+Shami   	0 	0 	0 	0 	0 	
+Ashwin   	0 	0 	0 	0 	0 	
+Hardik   	0 	0 	0 	0 	0 	
